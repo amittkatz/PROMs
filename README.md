@@ -2,13 +2,13 @@
 
 ## Introduction
 
-Project goal
+## Project goal
 
-Data
+## Data
 
 
-Methodology
+## Methodology
 
-Conclusions
+## Conclusions
 
-Discussions
+## Discussions
